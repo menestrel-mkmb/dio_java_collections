@@ -64,6 +64,4 @@ public class CatalogoLivros {
 
         return null;
     }
-
-
 }
