@@ -15,6 +15,7 @@ public class ConjuntoConvidados implements Comparable<Convidado> {
 
         festa.adicionarConvidado("Andrei", 24);
         festa.adicionarConvidado("chiselgrape", 68);
+        festa.adicionarConvidado("chiselgrapefake", 24);
         festa.adicionarConvidado("Jão", 1);
         festa.adicionarConvidado("Felipe", 2);
 
