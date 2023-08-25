@@ -19,7 +19,7 @@ public class CadastroProduto {
         estoqueSupermercado.adicionarProduto("Fruta 3", 1123454, 4.5, 18);
         estoqueSupermercado.adicionarProduto("Refrigerante", 1763412, 12, 40);
 
-        estoqueSupermercado.adicionarProduto("Invalido", 1123454, 0.4, 1);y
+        estoqueSupermercado.adicionarProduto("Invalido", 1123454, 0.4, 1);
 
         System.out.println(estoqueSupermercado.exibirProdutosPorNome());
 
