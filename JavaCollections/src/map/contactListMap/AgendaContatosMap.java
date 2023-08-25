@@ -1,6 +1,4 @@
-package map.contactList;
-
-import set.contactList.AgendaContatos;
+package map.contactListMap;
 
 import java.util.HashMap;
 import java.util.Map;

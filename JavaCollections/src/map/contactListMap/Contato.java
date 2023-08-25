@@ -1,4 +1,4 @@
-package map.contactList;
+package map.contactListMap;
 
 public class Contato {
     private String nome;
